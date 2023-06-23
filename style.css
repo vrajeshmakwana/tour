@@ -283,11 +283,11 @@ li:hover{
         font-size: 6vmin;
         margin-top: 158px;
      }
-     header
-    {
-        width: 110vw;
-        height: 25vh;
-    }
+     .header
+     {
+       width: 110vw;
+       height: 25vh;
+     }
     .explore-content 
     {
         width: 60%;
@@ -327,14 +327,11 @@ li:hover{
         width: 110%;
         justify-content: space-between;
     }
-    .event .btn
-    {
-        width: 60%;
-        height: 60%;
-    }
     .tour .btn
     {
-        border-radius: 20px;
+        width: 120px;
+        
     }
+  
   }
     
