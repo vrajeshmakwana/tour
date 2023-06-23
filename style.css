@@ -286,6 +286,11 @@ li:hover{
      header
     {
         width: 110vw;
+        height: 25vh;
+    }
+    .explore-content 
+    {
+        width: 60%;
     }
     .col img{
         width: 91%;
@@ -309,10 +314,6 @@ li:hover{
     {
         width: 50%;
     } 
-    .content-col .btn
-    {
-        margin-left: -21px;
-    }
     .footer p
     {
         padding: 13px 0px;
@@ -328,7 +329,8 @@ li:hover{
     }
     .event .btn
     {
-        border-radius: 20px;
+        width: 60%;
+        height: 60%;
     }
     .tour .btn
     {
