@@ -285,8 +285,8 @@ li:hover{
      }
      .header
      {
-       width: 110vw;
-       height: 25vh;
+       width: 130vw;
+       height: 30vh;
      }
     .explore-content 
     {
@@ -330,7 +330,6 @@ li:hover{
     .tour .btn
     {
         width: 120px;
-        
     }
   
   }
