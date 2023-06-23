@@ -292,7 +292,7 @@ li:hover{
     }
     .explore
     {
-        height: 50vh;
+        height: 25vh;
         width: 110%;
     }
     .explore-content 
@@ -319,12 +319,20 @@ li:hover{
     }
     .footer
     {
-        width: 110%;
+        width: 130%;
     }
     .event .row
     {
         width: 110%;
         justify-content: space-between;
+    }
+    .event .btn
+    {
+        border-radius: 20px;
+    }
+    .tour .btn
+    {
+        border-radius: 20px;
     }
   }
     
