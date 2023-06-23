@@ -290,6 +290,11 @@ li:hover{
     .col img{
         width: 91%;
     }
+    .explore
+    {
+        height: 50vh;
+        width: 110%;
+    }
     .explore-content 
     {
         margin-left: 185px;
@@ -311,6 +316,10 @@ li:hover{
     .footer p
     {
         padding: 13px 0px;
+    }
+    .footer
+    {
+        width: 110%;
     }
     .event .row
     {
